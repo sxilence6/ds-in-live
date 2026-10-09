@@ -1,0 +1,9 @@
+# little-scale's upstream wrapper is fetched by build.py
+upstream/
+# never commit ROMs or save data
+*.nds
+*.srl
+*.dsv
+*.state
+.DS_Store
+__pycache__/
